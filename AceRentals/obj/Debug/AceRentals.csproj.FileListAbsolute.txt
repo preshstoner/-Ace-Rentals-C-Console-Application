@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Desktop\C#\AceRentals\bin\Debug\AceRentals.exe.config
+C:\Users\USER\OneDrive\Desktop\C#\AceRentals\bin\Debug\AceRentals.exe
+C:\Users\USER\OneDrive\Desktop\C#\AceRentals\bin\Debug\AceRentals.pdb
+C:\Users\USER\OneDrive\Desktop\C#\AceRentals\obj\Debug\AceRentals.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\C#\AceRentals\obj\Debug\AceRentals.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C#\AceRentals\obj\Debug\AceRentals.exe
+C:\Users\USER\OneDrive\Desktop\C#\AceRentals\obj\Debug\AceRentals.pdb
